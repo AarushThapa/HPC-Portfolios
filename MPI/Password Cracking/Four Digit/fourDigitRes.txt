@@ -1,0 +1,15 @@
+#737813  CV7812 $6$KB$XvTiAsCz6Gf.reFhzl6jzPAeSpvxWw0dD1sGhVkwm4QJJHt.6Z/YuAJ16dWoVH4W5FolL4ecwzxmKZjC2zcj.0
+3380000 solutions explored
+3380000 solutions explored
+#1498113 FT8112 $6$KB$qZZz24fROE4OVGVzbvCzrYmUzwIX0n0yw8UWy65qWBCdRbXvBTwajp8KQ3qZmT5h77nvndLuxODq87a5ToojV1
+3380000 solutions explored
+3380000 solutions explored
+#2002113 HS2112 $6$KB$z8CokI.bWj5FHFWd1SIAyew/gdYAvrcfKD5zA7KLNc/rwa2vBqyzy3jbc7TQXv8eQGyzB19nhkiWhwCLuyF2G/
+3380000 solutions explored
+3380000 solutions explored
+#1326313 SC6312 $6$KB$uLCzwNvMO5smKLBdt13cXjaRwcAReJoV0VTVqbKlDI/ZdQvf7h6zu31r5x2u.3M5s1s.zAXcYnlPg8YY1Mx.O.
+3380000 solutions explored
+3380000 solutions explored
+Time elapsed was 37501377837868ns or 37501.377837868s
+Time elapsed was 37501374158152ns or 37501.374158152s
+Time elapsed was 37501379285757ns or 37501.379285757s
